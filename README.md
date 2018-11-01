@@ -1,2 +1,2 @@
 # jeu-de-carte-java
-devoir de java
+Devoir de java de de Guillaume Depretz
